@@ -40,14 +40,16 @@ const App = () => {
           {global.HermesInternal == null ? null : (
             <View style={styles.engine}>
               <Text style={styles.footer}>Engine: Hermes</Text>
+              <Text style={styles.footer}>haii haii</Text>
             </View>
           )}
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Step One</Text>
+              <Text style={styles.sectionTitle}>HAI HAIIIII</Text>
               <Text style={styles.sectionDescription}>
-                Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-                screen and then come back to see your edits.
+                Edit
+                <Text style={styles.highlight}> App.tsx </Text>
+                to change this screen and then come back to see your edits.
               </Text>
             </View>
             <View style={styles.sectionContainer}>
